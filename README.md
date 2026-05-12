@@ -41,5 +41,5 @@ The model is evaluated on a 20% test split.
 Metrics are displayed in the app on every run.
 
 ## 👤 Author
-- **Your Name**
+- Khaled Assaf
 - Damascus University — AI Course, 2024/2025
